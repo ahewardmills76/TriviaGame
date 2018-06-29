@@ -1,0 +1,50 @@
+.game-board {
+    height: 600px;
+    width: 80%;
+    background-color: rgb(192, 189, 189);
+    padding-top: 40px;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+#game-title {
+    font-family: 'Fascinate Inline', cursive;
+    color: palevioletred;
+    text-align: center;
+}
+
+.game-div {
+    font-family: 'Courier New';
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    height: 400px;
+    width: 80%;
+    position: inherit;
+    background-color: rgb(192, 189, 189);
+    border: solid black;
+    margin: inherit;
+    padding-top: 40px;
+}
+#game-start {
+    background-color:palevioletred;
+    border: solid black;
+    position: relative;
+    margin-top: 250px;
+
+}
+#question-box {
+    margin-top: 5%;
+    padding-top: 24px;
+    line-height: 15px;
+    height: 25%;
+    
+}
+#answer-box {
+    padding-top: 13px;
+    line-height: 15px;
+    height: 40%;
+    
+}
